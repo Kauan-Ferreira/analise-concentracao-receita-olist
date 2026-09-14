@@ -47,7 +47,7 @@ Categorias como Beleza & Saúde, Relógios & Presentes e Cama, Mesa & Banho lide
 1. Clone este repositório:
 
 Bash
-git clone https://github.com/SEU-USUARIO/seu-repositorio.git
+git clone https://github.com/Kauan-ferreira/seu-repositorio.git
 2. Certifique-se de baixar os datasets originais do Kaggle (Olist) e alocá-los na pasta data/raw/.
 
 3. Instale as dependências:
